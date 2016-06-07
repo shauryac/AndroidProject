@@ -6,7 +6,7 @@ import java.sql.SQLException;
 import java.sql.Connection;
 import java.sql.DriverManager;
 /**
- * Created by shauryachawla on 11/29/15.
+ * Created by shaurya
  */
 public class ConnectionClass {
     String ip = "10.0.0.57";
